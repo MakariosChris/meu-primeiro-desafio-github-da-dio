@@ -1,8 +1,16 @@
-# Meu Primeiro Projeto da DIO
-Criar um Repetório Remoto e Local Utilizando o Gi/GitHub.
+# Meu Primeiro Projeto da DIO :desktop_computer: :information_desk_person:
+_Objetivo Criar um Repositório Remoto e Local Utilizando o Git/GitHub._
 
-## Links úteis
-[Criar um repositório - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-new-repository)
-[Sobre repositórios - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories)
-[Práticas recomendad para repositórios - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/best-practices-for-repositories)
-[Criar um repo a partir de  um modelo - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+
+## Links úteis :page_facing_up: :man_cartwheeling:
+1. [Criar um repositório - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-new-repository)
+2. [Sobre repositórios - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories)
+3. [Práticas recomendada para repositórios - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/best-practices-for-repositories)
+4. [Criar um repositório a partir de  um modelo - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+5. [Clonar um repositório - GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+
+
+! [Logo da GitHub](C:\workspaces\meu-primeiro-desafio-github-da-dio\Minhas Imagens)
+
