@@ -1,0 +1,25 @@
+GIT COMMIT:
+$ git commit -m "inserção mensagem descritiva"
+
+GIT ADD:
+$ git add nome_do_arquivo
+$ git add .
+
+GIT INIT:
+$ git init
+
+GIT CLONE:
+$ git clone sintaxe_de_URL_ou_protocolos_suportados
+
+GIT STATUS:
+$ git status
+
+GIT PUSH:
+$ git push origin main
+
+GIT PULL:
+$ git pull OPÇÕES REPOSITÓRIO REFSPEC
+
+GIT CONFIG:
+$ git config user.email "email"
+$ git config user.name "nome"
