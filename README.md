@@ -12,5 +12,7 @@ _Objetivo Criar um Repositório Remoto e Local Utilizando o Git/GitHub._
 
 
 
-! [Logo da GitHub](C:\workspaces\meu-primeiro-desafio-github-da-dio\Minhas Imagens)
+![Logo da GitHub](https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png?ssl=1)
+
+***Fonte da imagem*** - https://i0.wp.com/www.globalemancipation.ngo/wp-content/uploads/2017/09/github-logo.png?ssl=1
 
